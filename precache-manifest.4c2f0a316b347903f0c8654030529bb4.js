@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/react_crash/static/js/runtime~main.8084c186.js"
   },
   {
-    "revision": "ac1099e4e51e916fdc12",
-    "url": "/react_crash/static/js/main.ac1099e4.chunk.js"
+    "revision": "b2212333c199c2380e2e",
+    "url": "/react_crash/static/js/main.b2212333.chunk.js"
   },
   {
     "revision": "fd6e8e9acdb20f71f911",
     "url": "/react_crash/static/js/2.fd6e8e9a.chunk.js"
   },
   {
-    "revision": "ac1099e4e51e916fdc12",
-    "url": "/react_crash/static/css/main.6cbfcd1c.chunk.css"
+    "revision": "b2212333c199c2380e2e",
+    "url": "/react_crash/static/css/main.9ddc7463.chunk.css"
   },
   {
-    "revision": "a8e826d2e7ce52d8ba92711e7b5a8bd2",
+    "revision": "8e7aa2c5458a06888ab3e2ce30fd0d37",
     "url": "/react_crash/index.html"
   }
 ];
